@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pokolenie</string>
+    <string name="action_open">Open gallery</string>
+    <string name="action_save">Save</string>
 </resources>
